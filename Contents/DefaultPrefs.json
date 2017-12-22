@@ -216,6 +216,12 @@
     "default": "I keep the original filenames"
   },
   {
+    "id": "use_file_info_file",
+    "label": "Retrieve original filename from .file_info/file_info index files (see wiki)",
+    "type": "bool",
+    "default": "false"
+  },
+  {
     "id": "drone_api.sonarr.url",
     "label": "Sonarr URL (add URL base if configured)",
     "type": "text",
